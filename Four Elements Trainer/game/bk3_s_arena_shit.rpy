@@ -1,4 +1,4 @@
-
+#Place in: Four Elements Trainer\game\
 image enemy_crab_crab1 = LiveComposite(
     (1000, 720),
     (0, 0), ConditionSwitch(
