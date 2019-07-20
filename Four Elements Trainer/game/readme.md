@@ -1,1 +1,1 @@
-Modifications for the RenPy game Four Elements Trainer
+These modifications go in the game folder within the Four Elements Trainer folder.
